@@ -1,0 +1,14 @@
+layout_spectrum: 0.82944270898588
+typography_spectrum: 0.7817882483359426
+color:
+  brandStrength: 0.7947460419964045
+  lightness: 0.3551008040085435
+  saturation: 0.44231536029838026
+  rhythmicContrast: 0.8842205805703998
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: ANM

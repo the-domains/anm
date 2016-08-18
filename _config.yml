@@ -1,4 +1,3 @@
-layout_spectrum: 0.82944270898588
 typography_spectrum: 0.7817882483359426
 color:
   brandStrength: 0.7947460419964045
@@ -6,9 +5,11 @@ color:
   saturation: 0.44231536029838026
   rhythmicContrast: 0.8842205805703998
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.82944270898588
 name: ANM
+title: ANM Design

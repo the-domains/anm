@@ -1,16 +1,16 @@
-typography_spectrum: 0.7817882483359426
+typography_spectrum: 0.5622083030175418
 color:
-  brandStrength: 0.7947460419964045
-  lightness: 0.3551008040085435
-  saturation: 0.44231536029838026
-  rhythmicContrast: 0.8842205805703998
+  brandStrength: 0.5245139789767563
+  lightness: 0.9909084555692971
+  saturation: 0.17518571997061372
+  rhythmicContrast: 0.6039232742041349
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.82944270898588
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.5518828378990293
 name: ANM
 title: ANM Design
 description: bespoke design and creative solutions
